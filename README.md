@@ -13,3 +13,7 @@
 9. CSP Map Colouring
 10. Breadth-First Search
 11. Depth-First Search
+12. TicTacToe
+13. MinMax Algorithm
+14. Alpha-Beta Pruning
+15. Decision Tree
