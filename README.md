@@ -17,3 +17,4 @@
 13. MinMax Algorithm
 14. Alpha-Beta Pruning
 15. Decision Tree
+16. Feed Forward Neural Network
