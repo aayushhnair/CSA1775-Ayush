@@ -18,3 +18,11 @@
 14. Alpha-Beta Pruning
 15. Decision Tree
 16. Feed Forward Neural Network
+17. Family Tree
+18. Diet System
+19. Monkey Banana
+20. Fruit & Color
+21. Medical Diagnosis
+22. Breadth First Search
+23. Forward Chaining
+24. Backward Chaining
